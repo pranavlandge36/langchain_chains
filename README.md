@@ -157,5 +157,5 @@ Reply A       Reply B
 
 # 🙌 Author
 
-**Pranav Landge**  
+**Pranav Sanjay Landge**  
 Aspiring AI Engineer 🚀  
